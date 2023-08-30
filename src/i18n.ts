@@ -17,14 +17,7 @@ i18next
       secret: 'SECRET',
       appVersion: '1.0.0',
       cacheExpirationTime: 60 * 5, // time in seconds
-    },
-    // resources: {
-    //   'en-GB': {
-    //     translation: {
-    //       hero_title: 'Hello World',
-    //     }
-    //   }
-    // }
+    }
   });
 
 export default function (app: any) {

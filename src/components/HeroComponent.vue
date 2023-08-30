@@ -27,18 +27,12 @@
 
 <script lang="ts">
 import ButtonComponent from './ButtonComponent.vue'
-// import { useTranslate } from '.././i18n'
 
 export default {
   name: 'HeroComponent',
   components: {
     ButtonComponent
   },
-  // setup () {
-  //   return {
-  //     ...useTranslate()
-  //   }
-  // }
 }
 </script>
 
