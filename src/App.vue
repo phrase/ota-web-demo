@@ -37,7 +37,6 @@ import HeroComponent from './components/HeroComponent.vue'
 import ContentSection from './components/ContentSection.vue'
 import HeadingWithText from '@/components/HeadingWithText.vue'
 import ClientList from '@/components/ClientList.vue'
-import { i18nextPromise } from './i18n'
 import { defineComponent } from 'vue'
 
 export default defineComponent({
@@ -49,10 +48,6 @@ export default defineComponent({
     HeroComponent,
     ContentSection
   },
-  // async setup () {
-  //   await i18nextPromise
-  //   return {}
-  // }
 })
 </script>
 

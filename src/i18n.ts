@@ -2,8 +2,7 @@ import i18next from 'i18next'
 import I18NextVue from 'i18next-vue'
 import { I18nextPhraseBackend } from "@phrase/i18next-backend";
 
-export const
-  i18nextPromise = i18next
+i18next
   .use(I18nextPhraseBackend)
   .init({
     lng: 'en-GB',
