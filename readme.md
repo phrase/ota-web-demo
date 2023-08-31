@@ -1,5 +1,5 @@
-# Phrase demo app
-Demo app to showcase Phrase In-Context Editor: https://demo.phrase.com/
+# OTA for Web demo app
+Demo Vue app to showcase OTA for Web usage
 
 ## Project setup
 ```
@@ -33,6 +33,6 @@ yarn lint
 
 ## I18n dependencies
 
-- [vue-i18n-phrase-in-context-editor](https://www.npmjs.com/package/vue-i18n-phrase-in-context-editor)
+- [@phrase/i18next-backend](https://www.npmjs.com/package/@phrase/i18next-backend)
 - [vue-i18n](https://www.npmjs.com/package/vue-i18n)
 - [vue-cli-plugin-i18n](https://www.npmjs.com/package/vue-cli-plugin-i18n)
