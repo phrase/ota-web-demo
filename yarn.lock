@@ -344,8 +344,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@phrase/i18next-backend@file:../i18next-phrase-backend":
+"@phrase/i18next-backend@^1.1.1":
   version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@phrase/i18next-backend/-/i18next-backend-1.1.1.tgz#8ed5a2beeb41bfeda8a3bbc1305bc6fbfb5870c6"
+  integrity sha512-B1JHfBSU0UJAM8O+EnVerx/N038Bc/dJmtXachYNKTV+lpHZI9WzXtqObMl71Fvsx5hTDW0+y3lki5pOGi9Dxw==
 
 "@polka/url@^1.0.0-next.20":
   version "1.0.0-next.21"
